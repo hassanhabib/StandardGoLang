@@ -4,3 +4,18 @@
 
 # StandardGoLang
 Building a simple app in Golang according to The Standard
+
+
+here's a video introduction to Golang according to The Standard:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rKo5JJ0L5GM/0.jpg)](https://www.youtube.com/watch?v=rKo5JJ0L5GM)
+
+
+If you have any suggestions, comments or questions, please feel free to contact me on:
+<br />
+Twitter: @hassanrezkhabib
+<br />
+LinkedIn: hassanrezkhabib
+<br />
+E-Mail: hassanhabib@live.com
+<br />
